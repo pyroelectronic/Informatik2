@@ -1,0 +1,6 @@
+Aufgabe 2:
+
+Erstellen Sie ein Programm, das demonstriert, wie man aus einer Funktion heraus mehrere Variablen
+zurückgeben kann! Bislang konnten wir nur eine per return zurückgeben! Mittels Zeiger kann man
+aber mehrere Variablen ändern bzw. zurückliefern Demonstrieren Sie dies in einer Funktion, die 3
+Variablen empfängt und diese dauerhaft ändert (also im Hauptprogramm sichtbar).
